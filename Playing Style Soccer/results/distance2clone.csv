@@ -1,0 +1,742 @@
+playerId,Distance2Clone,shortName,team,position,MRR_ind
+48,2,J. Vertonghen,Tottenham Hotspur,Defender,0.3333333333333333
+54,0,C. Eriksen,Tottenham Hotspur,Midfielder,1.0
+77,24,N. Moisander,Werder Bremen,Defender,0.04
+93,0,J. Guomundsson,Burnley,Midfielder,1.0
+102,0,Marcelo,Olympique Lyonnais,Defender,1.0
+107,0,E. Pieters,Stoke City,Defender,1.0
+114,0,K. Strootman,Roma,Midfielder,1.0
+116,0,G. Wijnaldum,Liverpool,Midfielder,1.0
+118,0,M. Depay,Olympique Lyonnais,Forward,1.0
+122,1,D. Mertens,Napoli,Forward,0.5
+130,0,S. de Vrij,Lazio,Defender,1.0
+159,9,J. Gouweleeuw,Augsburg,Defender,0.1
+173,10,R. van La Parra,Huddersfield Town,Midfielder,0.09090909090909091
+254,0,R. Rosales,Malaga,Defender,1.0
+370,0,V. van Dijk,Liverpool,Defender,1.0
+383,0,D. Tadic,0,Midfielder,1.0
+394,0,B. Nuytinck,Udinese,Defender,1.0
+454,0,P. van Aanholt,Crystal Palace,Defender,1.0
+466,0,D. Propper,Brighton & Hove Albion,Midfielder,1.0
+625,0,M. de Roon,Atalanta,Midfielder,1.0
+703,20,M. Yoshida,Southampton,Defender,0.047619047619047616
+3269,0,Jordi Alba,Barcelona,Defender,1.0
+3270,1,Barragan,Real Betis,Defender,0.5
+3276,0,A. Rami,Olympique Marseille,Defender,1.0
+3277,0,Victor Ruiz,Villarreal,Defender,1.0
+3278,0,Bruno Saltor,Brighton & Hove Albion,Defender,1.0
+3280,0,E. Banega,Sevilla,Midfielder,1.0
+3286,0,Dani Parejo,Valencia,Midfielder,1.0
+3287,0,Portu,Girona,Midfielder,1.0
+3290,0,Aduriz,Athletic Club,Forward,1.0
+3300,0,Albiol,Napoli,Defender,1.0
+3304,155,Nacho,Real Madrid,Defender,0.00641025641025641
+3306,0,Sergio Ramos,Real Madrid,Defender,1.0
+3308,4,Pedro Mendes,Montpellier,Defender,0.2
+3309,1,R. Varane,Real Madrid,Defender,0.5
+3310,0,Marcelo,Real Madrid,Defender,1.0
+3313,0,Jose Callejon,Napoli,Forward,1.0
+3314,0,A. di Maria,PSG,Midfielder,1.0
+3319,0,M. Ozil,Arsenal,Midfielder,1.0
+3321,0,K. Benzema,Real Madrid,Forward,1.0
+3322,0,Cristiano Ronaldo,Juventus,Forward,1.0
+3323,0,G. Higuain,Milan,Forward,1.0
+3324,0,Alvaro Morata,Chelsea,Forward,1.0
+3325,0,Juanfran,Deportivo La Coruna,Defender,1.0
+3334,0,Dani Alves,PSG,Defender,1.0
+3335,3,Bartra,Real Betis,Defender,0.25
+3338,0,Sergi Gomez,Celta de Vigo,Defender,1.0
+3339,10,Montoya,Valencia,Defender,0.09090909090909091
+3341,3,Pique,Barcelona,Defender,0.25
+3346,0,Sergio Busquets,Barcelona,Midfielder,1.0
+3347,0,Sergi Roberto,Barcelona,Defender,1.0
+3350,0,Fabregas,Chelsea,Midfielder,1.0
+3359,0,L. Messi,Barcelona,Forward,1.0
+3361,0,A. Sanchez,Manchester United,Forward,1.0
+3384,0,A. Guardado,Real Betis,Midfielder,1.0
+3407,0,Ramalho,Girona,Defender,1.0
+3409,1,San Jose,Athletic Club,Midfielder,0.5
+3420,0,Susaeta,Athletic Club,Midfielder,1.0
+3423,1,Ibai Gomez,Deportivo Alaves,Midfielder,0.5
+3431,2,Joao Miranda,Internazionale,Defender,0.3333333333333333
+3433,0,D. Godin,Atletico Madrid,Defender,1.0
+3441,2,Gabi,Atletico Madrid,Midfielder,0.3333333333333333
+3443,0,Koke,Atletico Madrid,Midfielder,1.0
+3450,0,R. Falcao,Monaco,Forward,1.0
+3451,0,Adrian Lopez,Deportivo La Coruna,Forward,1.0
+3463,4,F. Fazio,Roma,Defender,0.2
+3464,0,Luna,Levante,Defender,1.0
+3466,0,Alexis,Deportivo Alaves,Defender,1.0
+3470,7,Campana,Levante,Midfielder,0.125
+3476,0,I. Rakitic,Barcelona,Midfielder,1.0
+3484,0,Luis Alberto,Lazio,Midfielder,1.0
+3496,0,Sergio Postigo,Levante,Defender,1.0
+3503,0,Raul Garcia,Athletic Club,Midfielder,1.0
+3523,2,F. Lejeune,Newcastle United,Defender,0.3333333333333333
+3529,3,Mario,Villarreal,Defender,0.25
+3534,0,Jaume Costa,Villarreal,Defender,1.0
+3542,1,Trigueros,Villarreal,Midfielder,0.5
+3543,0,Borja Valero,Internazionale,Midfielder,1.0
+3560,1,Nacho Monreal,Arsenal,Defender,0.5
+3571,0,Joaquin,Real Betis,Midfielder,1.0
+3572,0,Portillo,Getafe,Midfielder,1.0
+3577,0,S. Rondon,Newcastle United,Forward,1.0
+3605,0,Jorge Molina,Getafe,Forward,1.0
+3645,0,Chory Castro,Malaga,Midfielder,1.0
+3650,0,Tomas Pina,Deportivo Alaves,Midfielder,1.0
+3671,23,Inigo Martinez,Athletic Club,Defender,0.041666666666666664
+3676,0,Illarramendi,Real Sociedad,Midfielder,1.0
+3680,0,Zurutuza,Real Sociedad,Midfielder,1.0
+3682,1,A. Griezmann,Atletico Madrid,Forward,0.5
+3692,0,Bernardo Espinosa,Girona,Defender,1.0
+3695,1,Alvaro Gonzalez,Villarreal,Defender,0.5
+3705,7,Adrian,Malaga,Midfielder,0.125
+3714,0,C. Stuani,Girona,Forward,1.0
+3788,0,Jordi Amat,Real Betis,Defender,1.0
+3797,18,Victor Sanchez,Espanyol,Midfielder,0.05263157894736842
+3802,0,Philippe Coutinho,Barcelona,Forward,1.0
+3803,6,Sergi Darder,Espanyol,Midfielder,0.14285714285714285
+3827,0,Hugo Mallo,Celta de Vigo,Defender,1.0
+3840,2,Iago Aspas,Celta de Vigo,Forward,0.3333333333333333
+3874,0,Kike Garcia,Eibar,Forward,1.0
+3934,0,N. El Zhar,Leganes,Midfielder,1.0
+3970,55,Galvez,Las Palmas,Defender,0.017857142857142856
+3974,0,D. Suarez,Getafe,Defender,1.0
+4013,0,Ruben Perez,Leganes,Midfielder,1.0
+4015,5,Pablo Sarabia,Sevilla,Midfielder,0.16666666666666666
+4094,0,Ander Capa,Eibar,Defender,1.0
+4131,0,Angel,Getafe,Forward,1.0
+4238,2,Michel,0,Defender,0.3333333333333333
+4272,0,Ximo Navarro,Las Palmas,Defender,1.0
+4278,0,Borja Garcia,Girona,Midfielder,1.0
+4303,0,David Lopez,Espanyol,Defender,1.0
+4360,0,Juanpe,Girona,Defender,1.0
+4371,12,Dani Castellano,Las Palmas,Defender,0.07692307692307693
+4379,0,Jonathan Viera,0,Midfielder,1.0
+4424,0,Jonny,Celta de Vigo,Defender,1.0
+4488,0,Saul,Atletico Madrid,Midfielder,1.0
+4501,1,Daniel Carvajal,Real Madrid,Defender,0.5
+4805,0,Arbilla,Eibar,Defender,1.0
+4892,19,Jose Gaya,Valencia,Defender,0.05
+5167,3,Mariano Diaz,Olympique Lyonnais,Forward,0.25
+5281,5,A. Nyom,Leganes,Defender,0.16666666666666666
+5400,0,Gerard Moreno,Espanyol,Forward,1.0
+5472,0,Luis Hernandez,Malaga,Defender,1.0
+5542,0,Dani Garcia,Eibar,Midfielder,1.0
+6281,0,Zaldua,Leganes,Defender,1.0
+6370,1,Eraso,Leganes,Midfielder,0.5
+7585,0,Manu Garcia,Deportivo Alaves,Midfielder,1.0
+7623,0,Leo Baptistao,Espanyol,Forward,1.0
+7853,3,K. Gibbs,West Bromwich Albion,Defender,0.25
+7855,0,L. Koscielny,Arsenal,Defender,1.0
+7885,0,R. Bertrand,Southampton,Defender,1.0
+7887,2,G. Cahill,Chelsea,Defender,0.3333333333333333
+7899,0,Oriol Romeu,Southampton,Midfielder,1.0
+7904,0,S. Kalou,Hertha BSC,Forward,1.0
+7905,0,R. Lukaku,Manchester United,Forward,1.0
+7914,1,J. Evans,Leicester City,Defender,0.5
+7918,4,P. Jones,Manchester United,Defender,0.2
+7919,2,M. Keane,Everton,Defender,0.3333333333333333
+7922,0,C. Smalling,Manchester United,Defender,1.0
+7932,1,D. Fletcher,Stoke City,Midfielder,0.5
+7936,0,P. Pogba,Manchester United,Midfielder,1.0
+7938,0,A. Valencia,Manchester United,Defender,1.0
+7939,1,A. Young,Manchester United,Defender,0.5
+7944,2,W. Rooney,0,Forward,0.3333333333333333
+7964,0,J. Henderson,Liverpool,Midfielder,1.0
+7965,2,Lucas Leiva,Lazio,Midfielder,0.3333333333333333
+7967,0,J. Shelvey,Newcastle United,Midfielder,1.0
+7972,0,L. Suarez,Barcelona,Forward,1.0
+7988,24,Y. Cabaye,0,Midfielder,0.04
+8013,0,M. Albrighton,Leicester City,Midfielder,1.0
+8032,0,Marcos Alonso,Chelsea,Defender,1.0
+8086,0,D. Stephens,Brighton & Hove Albion,Midfielder,1.0
+8125,1,J. Cork,Burnley,Midfielder,0.5
+8136,15,J. Stephens,Southampton,Defender,0.0625
+8143,0,M. Schneiderlin,Everton,Midfielder,1.0
+8148,0,Iago Falque,Torino,Forward,1.0
+8192,0,M. Olsson,Swansea City,Defender,1.0
+8200,0,S. N'Zonzi,Roma,Midfielder,1.0
+8242,0,S. Duffy,Brighton & Hove Albion,Defender,1.0
+8245,24,P. Jagielka,Everton,Defender,0.04
+8277,3,K. Walker,Manchester City,Defender,0.25
+8285,3,J. Livermore,West Bromwich Albion,Midfielder,0.25
+8287,0,L. Modric,Real Madrid,Midfielder,1.0
+8306,0,A. Kolarov,Roma,Defender,1.0
+8309,0,K. Rekik,Hertha BSC,Defender,1.0
+8311,19,S. Savic,Atletico Madrid,Defender,0.05
+8313,12,P. Zabaleta,West Ham United,Defender,0.07692307692307693
+8317,0,David Silva,Manchester City,Midfielder,1.0
+8326,0,M. Balotelli,Nice,Forward,1.0
+8327,0,E. Dzeko,Roma,Forward,1.0
+8336,14,K. Naughton,Swansea City,Defender,0.06666666666666667
+8360,0,C. Dawson,West Bromwich Albion,Defender,1.0
+8416,0,G. Murray,Brighton & Hove Albion,Forward,1.0
+8422,0,W. Zaha,Crystal Palace,Midfielder,1.0
+8433,0,S. Ward,Burnley,Defender,1.0
+8460,3,A. Smith,AFC Bournemouth,Defender,0.25
+8471,1,A. Townsend,Crystal Palace,Midfielder,0.5
+8488,0,W. Morgan,Leicester City,Defender,1.0
+8554,1,J. Tomkins,Crystal Palace,Defender,0.5
+8561,16,M. Noble,West Ham United,Midfielder,0.058823529411764705
+8582,2,A. Cresswell,West Ham United,Defender,0.3333333333333333
+8620,0,M. Diame,Newcastle United,Midfielder,1.0
+8623,24,J. McArthur,Crystal Palace,Midfielder,0.04
+8625,0,V. Moses,Chelsea,Midfielder,1.0
+8643,0,M. Lowton,Burnley,Defender,1.0
+8653,0,H. Maguire,Leicester City,Defender,1.0
+8717,1,H. Kane,Tottenham Hotspur,Forward,0.5
+8731,0,R. Shawcross,Stoke City,Defender,1.0
+8833,0,J. Lascelles,Newcastle United,Defender,1.0
+8889,0,A. Mariappa,Watford,Defender,1.0
+8897,1,J. Hogg,Huddersfield Town,Midfielder,0.5
+8944,0,B. Mee,Burnley,Defender,1.0
+8958,0,J. Rodriguez,West Bromwich Albion,Forward,1.0
+8976,2,T. Carroll,Swansea City,Midfielder,0.3333333333333333
+8980,0,J. Hendrick,Burnley,Midfielder,1.0
+9097,0,L. Dunk,Brighton & Hove Albion,Defender,1.0
+9123,5,A. Barnes,Burnley,Forward,0.16666666666666666
+9227,0,M. Ritchie,Newcastle United,Midfielder,1.0
+9277,0,S. Cook,AFC Bournemouth,Defender,1.0
+9279,0,S. Francis,AFC Bournemouth,Defender,1.0
+9285,1,C. Daniels,AFC Bournemouth,Defender,0.5
+9414,0,M. Phillips,West Bromwich Albion,Midfielder,1.0
+9419,2,T. Ince,Stoke City,Midfielder,0.3333333333333333
+9433,0,J. Tarkowski,Burnley,Defender,1.0
+9637,1,J. King,AFC Bournemouth,Forward,0.5
+9739,15,J. Ibe,AFC Bournemouth,Midfielder,0.0625
+10252,3,S. Clucas,Stoke City,Midfielder,0.25
+11063,0,Suso,Milan,Forward,1.0
+11066,6,R. Sterling,Manchester City,Forward,0.14285714285714285
+11095,56,M. Veljkovic,Werder Bremen,Defender,0.017543859649122806
+11156,1,M. Trotta,Crotone,Forward,0.5
+11669,3,C. Wilson,AFC Bournemouth,Forward,0.25
+12829,0,J. Vardy,Leicester City,Forward,1.0
+13484,4,D. Alli,Tottenham Hotspur,Midfielder,0.2
+14687,0,S. Papastathopoulos,Borussia Dortmund,Defender,1.0
+14689,0,Naldo,Schalke 04,Defender,1.0
+14703,12,M. Arnautovic,West Ham United,Forward,0.07692307692307693
+14705,1,N. Fullkrug,Hannover 96,Forward,0.5
+14706,0,A. Hunt,Hamburger SV,Midfielder,1.0
+14715,2,H. Badstuber,Stuttgart,Defender,0.3333333333333333
+14722,1,Luiz Gustavo,Olympique Marseille,Midfielder,0.5
+14723,0,T. Kroos,Real Madrid,Midfielder,1.0
+14731,2,M. Gomez,Stuttgart,Forward,0.3333333333333333
+14734,0,N. Petersen,Freiburg,Forward,1.0
+14748,5,A. Rudiger,Chelsea,Defender,0.16666666666666666
+14749,0,G. Sakai,Hamburger SV,Defender,1.0
+14754,103,C. Gentner,Stuttgart,Midfielder,0.009615384615384616
+14775,0,B. Oczipka,Schalke 04,Defender,1.0
+14778,0,O. Toprak,Borussia Dortmund,Defender,1.0
+14795,0,M. Hummels,Bayern Munchen,Defender,1.0
+14798,3,L. Piszczek,Borussia Dortmund,Defender,0.25
+14802,0,M. Bakalorz,Hannover 96,Midfielder,1.0
+14803,2,S. Bender,Bayer Leverkusen,Defender,0.3333333333333333
+14812,0,I. Perisic,Internazionale,Midfielder,1.0
+14817,1,R. Lewandowski,Bayern Munchen,Forward,0.5
+14836,0,T. Inui,Real Betis,Midfielder,1.0
+14838,1,C. Kramer,Borussia M'gladbach,Midfielder,0.5
+14842,0,K. Vogt,Hoffenheim,Defender,1.0
+14852,0,Sergio Escudero,Sevilla,Defender,1.0
+14857,0,K. Papadopoulos,Hamburger SV,Defender,1.0
+14869,0,S. Kolasinac,Arsenal,Defender,1.0
+14870,8,J. Matip,Liverpool,Defender,0.1111111111111111
+14903,1,T. Rincon,Torino,Midfielder,0.5
+14905,0,P. Skjelbred,Hertha BSC,Midfielder,1.0
+14911,0,Son Heung-Min,Tottenham Hotspur,Forward,1.0
+14917,1,R. Knoche,Wolfsburg,Defender,0.5
+14922,0,R. Rodriguez,Milan,Defender,1.0
+14929,0,M. Hasebe,Eintracht Frankfurt,Midfielder,1.0
+14938,0,M. Arnold,Wolfsburg,Midfielder,1.0
+14943,0,M. Mandzukic,Juventus,Forward,1.0
+14945,0,G. Sio,Montpellier,Forward,1.0
+14989,0,D. Caligiuri,Schalke 04,Midfielder,1.0
+14990,3,F. Diagne,Metz,Defender,0.25
+14991,0,M. Ginter,Borussia M'gladbach,Defender,1.0
+15004,0,I. Santini,Caen,Forward,1.0
+15010,0,Dante,Nice,Defender,1.0
+15014,0,O. Wendt,Borussia M'gladbach,Defender,1.0
+15051,1,L. Stindl,Borussia M'gladbach,Forward,0.5
+15054,0,M. Diouf,Stoke City,Forward,1.0
+15069,9,W. Orban,RB Leipzig,Defender,0.1
+15107,0,Raffael,Borussia M'gladbach,Forward,1.0
+15125,0,M. Plattenhardt,Hertha BSC,Defender,1.0
+15129,0,D. Didavi,Wolfsburg,Midfielder,1.0
+15178,1,S. Bell,Mainz 05,Defender,0.5
+15191,0,Y. Malli,Wolfsburg,Midfielder,1.0
+15198,8,E. Choupo-Moting,PSG,Forward,0.1111111111111111
+15215,0,C. Schindler,Huddersfield Town,Defender,1.0
+15231,0,K. Volland,Bayer Leverkusen,Forward,1.0
+15256,2,P. Schwegler,Hannover 96,Midfielder,0.3333333333333333
+15276,16,M. Weiser,Hertha BSC,Midfielder,0.058823529411764705
+15292,0,M. Uth,Hoffenheim,Forward,1.0
+15399,0,D. Brosinski,Mainz 05,Defender,1.0
+15430,1,N. Hofler,Freiburg,Midfielder,0.5
+15456,31,F. Klaus,Hannover 96,Midfielder,0.03125
+15487,1,J. Haberer,Freiburg,Midfielder,0.5
+15524,0,H. Calhanoglu,Milan,Midfielder,1.0
+15526,0,P. GroB,Brighton & Hove Albion,Midfielder,1.0
+15719,0,B. Hubner,Hoffenheim,Defender,1.0
+15772,2,M. Ostrzolek,Hannover 96,Defender,0.3333333333333333
+15775,3,P. Verhaegh,Wolfsburg,Defender,0.25
+15777,0,D. Baier,Augsburg,Midfielder,1.0
+15781,1,Ja-Cheol Koo,Augsburg,Midfielder,0.5
+15806,0,J. Vestergaard,Southampton,Defender,1.0
+15808,0,Roberto Firmino,Liverpool,Forward,1.0
+15937,9,D. Demme,RB Leipzig,Midfielder,0.1
+16025,1,M. Kruse,Werder Bremen,Forward,0.5
+16094,1,S. Terodde,Koln,Forward,0.5
+16110,0,K. Kampl,RB Leipzig,Midfielder,1.0
+16303,0,D. Latza,Mainz 05,Midfielder,1.0
+16432,0,Caiuby,Augsburg,Midfielder,1.0
+16826,0,R. Khedira,Augsburg,Midfielder,1.0
+16843,0,D. Heintz,Koln,Defender,1.0
+16884,0,J. Korb,Hannover 96,Defender,1.0
+18550,0,E. Can,Juventus,Midfielder,1.0
+20394,9,Thiago Silva,PSG,Defender,0.1
+20402,1,K. Boateng,Eintracht Frankfurt,Midfielder,0.5
+20404,0,B. Cristante,Atalanta,Midfielder,1.0
+20418,4,S. El Shaarawy,Roma,Forward,0.2
+20429,0,N. Burdisso,0,Defender,1.0
+20436,5,Jose Angel,Eibar,Defender,0.16666666666666666
+20443,0,M. Pjanic,Juventus,Midfielder,1.0
+20448,0,F. Viviani,SPAL,Midfielder,1.0
+20459,1,L. Bonucci,Milan,Defender,0.5
+20461,0,G. Chiellini,Juventus,Defender,1.0
+20472,0,S. Padoin,Cagliari,Midfielder,1.0
+20479,0,F. Quagliarella,Sampdoria,Forward,1.0
+20495,0,M. Gobbi,Chievo,Defender,1.0
+20529,0,A. Poli,Bologna,Midfielder,1.0
+20550,0,S. Radu,Lazio,Defender,1.0
+20556,0,A. Candreva,Internazionale,Midfielder,1.0
+20561,0,S. Lulic,Lazio,Midfielder,1.0
+20583,1,Danilo,Udinese,Defender,0.5
+20612,0,S. Mustafi,Arsenal,Defender,1.0
+20635,0,F. Acerbi,Sassuolo,Defender,1.0
+20653,0,P. Hetemaj,Chievo,Midfielder,1.0
+20661,0,A. Paloschi,SPAL,Forward,1.0
+20680,1,F. Sorensen,Koln,Defender,0.5
+20689,0,G. Ramirez,Sampdoria,Midfielder,1.0
+20707,36,S. De Maio,Bologna,Defender,0.02702702702702703
+20748,1,N. Tomovic,Chievo,Defender,0.5
+20749,0,A. Bertolacci,Genoa,Midfielder,1.0
+20776,23,L. Rossettini,Genoa,Defender,0.041666666666666664
+20811,0,M. Silvestre,Sampdoria,Defender,1.0
+20815,0,A. Barberis,Crotone,Midfielder,1.0
+20816,0,E. Barreto,Sampdoria,Midfielder,1.0
+20820,0,J. Ilicic,Atalanta,Forward,1.0
+20841,0,A. Masiello,Atalanta,Defender,1.0
+20842,0,F. Peluso,Sassuolo,Defender,1.0
+20845,0,G. Bonaventura,Milan,Midfielder,1.0
+20850,1,L. Cigarini,Cagliari,Midfielder,0.5
+20866,11,D. Astori,0,Defender,0.08333333333333333
+20879,0,R. Nainggolan,Roma,Midfielder,1.0
+20911,1,P. Schiattarella,SPAL,Midfielder,0.5
+20927,0,L. De Silvestri,Torino,Defender,1.0
+20928,14,Felipe,SPAL,Defender,0.06666666666666667
+20932,0,M. Nastasic,Schalke 04,Defender,1.0
+20935,0,Romulo,Hellas Verona,Midfielder,1.0
+20941,0,A. Ljajic,Torino,Forward,1.0
+21001,0,E. Hysaj,Napoli,Defender,1.0
+21077,0,A. Gomez,Atalanta,Forward,1.0
+21094,4,D. D'Ambrosio,Internazionale,Defender,0.2
+21097,0,K. Glik,Monaco,Defender,1.0
+21100,0,A. Ogbonna,West Ham United,Defender,1.0
+21114,0,M. Antenucci,SPAL,Forward,1.0
+21123,0,S. Verdi,Bologna,Forward,1.0
+21164,3,F. Fernandez,Newcastle United,Defender,0.25
+21171,0,M. Hamsik,Napoli,Midfielder,1.0
+21174,0,E. Cavani,PSG,Forward,1.0
+21234,1,A. Belotti,Torino,Forward,0.5
+21280,4,M. Sampirisi,Crotone,Defender,0.2
+21291,0,V. Birsa,Chievo,Midfielder,1.0
+21296,2,R. Palacio,Bologna,Forward,0.3333333333333333
+21315,0,Jorginho,Napoli,Midfielder,1.0
+21350,1,M. Parolo,Lazio,Midfielder,0.5
+21370,0,M. Capuano,Crotone,Defender,1.0
+21384,0,C. Immobile,Lazio,Forward,1.0
+21385,0,L. Insigne,Napoli,Forward,1.0
+21438,0,R. Inglese,Chievo,Forward,1.0
+21469,0,G. Donati,Mainz 05,Defender,1.0
+21507,1,D. Baselli,Torino,Midfielder,0.5
+21528,0,F. Ceccherini,Crotone,Defender,1.0
+21550,2,Gabriel Silva,Saint-Etienne,Defender,0.3333333333333333
+21564,0,I. Radovanovic,Chievo,Midfielder,1.0
+21607,0,F. Cacciatore,Chievo,Defender,1.0
+21620,14,J. Kurtic,SPAL,Midfielder,0.06666666666666667
+21639,6,L. Ceppitelli,Cagliari,Defender,0.14285714285714285
+21655,0,A. Stoian,Crotone,Forward,1.0
+21842,1,C. Biraghi,Fiorentina,Defender,0.5
+22093,1,A. Caracciolo,Hellas Verona,Defender,0.5
+22107,0,Mario Rui,Napoli,Defender,1.0
+22162,0,F. Magnanelli,Sassuolo,Midfielder,1.0
+22163,0,S. Missiroli,Sassuolo,Midfielder,1.0
+22185,1,B. Martella,Crotone,Defender,0.5
+22202,1,S. Zaza,Valencia,Forward,0.5
+22270,3,G. Ferrari,Sampdoria,Defender,0.25
+22380,1,M. Benassi,Fiorentina,Midfielder,0.5
+22383,3,A. Duncan,Sassuolo,Midfielder,0.25
+22566,0,A. Florenzi,Roma,Midfielder,1.0
+22732,2,F. Pisacane,Cagliari,Defender,0.3333333333333333
+22933,0,L. Pavoletti,Cagliari,Forward,1.0
+24838,3,G. Letizia,Benevento,Defender,0.25
+25392,9,B. Kone,Strasbourg,Defender,0.1
+25393,1,D. Lovren,Liverpool,Defender,0.5
+25397,0,S. Umtiti,Barcelona,Defender,1.0
+25410,0,A. Plea,Nice,Forward,1.0
+25411,0,J. Briand,Guingamp,Forward,1.0
+25413,0,A. Lacazette,Arsenal,Forward,1.0
+25437,0,B. Matuidi,Juventus,Midfielder,1.0
+25492,2,T. Monconduit,Amiens SC,Midfielder,0.3333333333333333
+25512,0,S. Haller,Eintracht Frankfurt,Forward,1.0
+25523,0,K. Djidji,Nantes,Defender,1.0
+25524,2,P. Djilobodji,Dijon,Defender,0.3333333333333333
+25541,2,J. Veretout,Fiorentina,Midfielder,0.3333333333333333
+25553,0,Azpilicueta,Chelsea,Defender,1.0
+25557,0,J. Morel,Olympique Lyonnais,Defender,1.0
+25558,0,N. N'Koulou,Torino,Defender,1.0
+25571,0,J. Ayew,Crystal Palace,Forward,1.0
+25605,0,E. Sala,Nantes,Forward,1.0
+25622,0,T. Hazard,Borussia M'gladbach,Forward,1.0
+25623,0,G. Kondogbia,Valencia,Midfielder,1.0
+25643,2,K. Theophile Catherine,Saint-Etienne,Defender,0.3333333333333333
+25647,0,J. Feret,Caen,Midfielder,1.0
+25706,3,I. Gueye,Everton,Midfielder,0.25
+25707,0,E. Hazard,Chelsea,Forward,1.0
+25714,0,D. Payet,Olympique Marseille,Midfielder,1.0
+25715,0,R. Rodelin,Caen,Forward,1.0
+25716,1,N. Roux,Metz,Forward,0.5
+25726,0,K. Koulibaly,Napoli,Defender,1.0
+25745,0,A. Delort,Toulouse,Forward,1.0
+25747,4,S. Mane,Liverpool,Forward,0.2
+25770,0,F. Thauvin,Olympique Marseille,Forward,1.0
+25786,10,D. Congre,Montpellier,Defender,0.09090909090909091
+25809,0,E. Riviere,Metz,Forward,1.0
+25826,0,B. Andre,Rennes,Midfielder,1.0
+25829,1,P. Lasne,Montpellier,Midfielder,0.5
+25846,34,Y. Andreu,Angers,Defender,0.02857142857142857
+25854,1,K. Zouma,Everton,Defender,0.5
+25860,0,M. Gradel,Toulouse,Forward,1.0
+25861,2,J. Guilavogui,Wolfsburg,Midfielder,0.3333333333333333
+25864,0,L. Perrin,Saint-Etienne,Defender,1.0
+25867,2,P. Aubameyang,Arsenal,Forward,0.3333333333333333
+25883,1,J. Sorbon,Guingamp,Defender,0.5
+25888,2,F. Fajr,Caen,Midfielder,0.3333333333333333
+25923,0,N. de Preville,Bordeaux,Forward,1.0
+25937,0,F. Bellugou,Troyes,Defender,1.0
+25942,1,G. Imbula,Toulouse,Midfielder,0.5
+25943,0,C. Kerbrat,Guingamp,Defender,1.0
+25950,0,A. Knockaert,Brighton & Hove Albion,Midfielder,1.0
+25957,0,K. Adenon,Amiens SC,Defender,1.0
+25990,1,M. Deplagne,Troyes,Defender,0.5
+25993,1,Hilton,Montpellier,Defender,0.5
+25995,0,B. Stambouli,Schalke 04,Midfielder,1.0
+25999,4,R. Cabella,Saint-Etienne,Midfielder,0.2
+26021,7,S. Falette,Eintracht Frankfurt,Defender,0.125
+26065,0,J. Martin,Strasbourg,Midfielder,1.0
+26086,4,I. Traore,Angers,Defender,0.2
+26100,0,N. Sliti,Dijon,Midfielder,1.0
+26115,2,S. Sane,Schalke 04,Defender,0.3333333333333333
+26120,0,T. Mangani,Angers,Midfielder,1.0
+26134,0,P. Gouano,Amiens SC,Defender,1.0
+26135,34,M. Le Marchand,Nice,Defender,0.02857142857142857
+26138,3,J. Rivierez,Metz,Defender,0.25
+26150,0,R. Mahrez,Manchester City,Midfielder,1.0
+26196,0,D. Sidibe,Monaco,Defender,1.0
+26265,6,V. Manceau,Angers,Defender,0.14285714285714285
+26276,1,N. Pallois,Nantes,Defender,0.5
+26307,1,A. Mandi,Real Betis,Defender,0.5
+26311,0,R. Amalfitano,Dijon,Midfielder,1.0
+26314,6,L. Deaux,Guingamp,Midfielder,0.14285714285714285
+26384,0,G. Kakuta,Amiens SC,Midfielder,1.0
+26399,0,D. Da Silva,Caen,Defender,1.0
+26495,0,G. Bong,Brighton & Hove Albion,Defender,1.0
+26498,0,K. Lala,Strasbourg,Defender,1.0
+26508,1,R. Cohade,Metz,Midfielder,0.5
+26512,0,M. Dossevi,Metz,Midfielder,1.0
+26633,1,A. Souquet,Nice,Defender,0.5
+26638,0,K. Toko Ekambi,Angers,Forward,1.0
+26652,0,D. Wass,Celta de Vigo,Midfielder,1.0
+27354,0,Julio Tavares,Dijon,Forward,1.0
+28115,0,N. Fekir,Olympique Lyonnais,Midfielder,1.0
+28122,0,Y. Benzia,0,Forward,1.0
+28232,0,I. Amadou,Sevilla,Midfielder,1.0
+28291,0,T. Bakayoko,Milan,Midfielder,1.0
+28292,5,A. Doucoure,Watford,Midfielder,0.16666666666666666
+28314,0,C. Herelle,Nice,Defender,1.0
+28335,3,R. Aguilar,Montpellier,Defender,0.25
+28528,0,J. Ikoko,Guingamp,Defender,1.0
+28529,0,Y. Sabaly,Bordeaux,Defender,1.0
+28866,0,K. Azamoum,0,Midfielder,1.0
+28908,0,F. Guilbert,Caen,Defender,1.0
+28922,0,T. Lemar,Atletico Madrid,Midfielder,1.0
+28990,0,D. Lienard,Strasbourg,Midfielder,1.0
+29291,9,J. Giraudon,Troyes,Defender,0.1
+29474,0,R. Thomas,Angers,Defender,1.0
+29588,0,E. Seka,0,Defender,1.0
+29616,6,P. Martinez,Strasbourg,Defender,0.14285714285714285
+30320,0,O. El Hajjam,Amiens SC,Defender,1.0
+31528,0,N. Kante,Chelsea,Midfielder,1.0
+37725,0,C. Kouyate,Crystal Palace,Midfielder,1.0
+37732,0,L. Biglia,Milan,Midfielder,1.0
+37739,4,D. Praet,Sampdoria,Midfielder,0.2
+37831,0,C. Bacca,Villarreal,Forward,1.0
+38021,0,K. De Bruyne,Manchester City,Midfielder,1.0
+38031,0,C. Benteke,Crystal Palace,Forward,1.0
+38532,0,E. Zukanovic,Genoa,Defender,1.0
+40301,0,Lucas Lima,Nantes,Defender,1.0
+40539,0,Marquinhos,PSG,Defender,1.0
+40614,0,Guilherme,Deportivo La Coruna,Midfielder,1.0
+40657,1,Wendell,Bayer Leverkusen,Defender,0.5
+40726,0,Allan,Napoli,Midfielder,1.0
+40756,0,Casemiro,Real Madrid,Midfielder,1.0
+40770,0,Willian Jose,Real Sociedad,Forward,1.0
+41034,0,Rafael Toloi,Atalanta,Defender,1.0
+41056,0,Thiago Mendes,Lille,Midfielder,1.0
+41174,1,M. Lanzini,West Ham United,Midfielder,0.5
+41363,3,Gabriel,Valencia,Defender,0.25
+43051,0,Gabriel,Leganes,Midfielder,1.0
+43196,1,Somalia,Toulouse,Midfielder,0.5
+49856,17,D. Abraham,Eintracht Frankfurt,Defender,0.05555555555555555
+49872,0,X. Shaqiri,Liverpool,Midfielder,1.0
+49876,0,G. Xhaka,Arsenal,Midfielder,1.0
+49991,0,R. Freuler,Atalanta,Midfielder,1.0
+50007,5,B. Djimsiti,Benevento,Defender,0.16666666666666666
+50073,2,A. Ionita,Cagliari,Midfielder,0.3333333333333333
+50102,2,F. Schar,Newcastle United,Defender,0.3333333333333333
+50805,16,F. Helander,Bologna,Defender,0.058823529411764705
+51004,0,C. Borges,0,Midfielder,1.0
+51217,0,L. Augustinsson,Werder Bremen,Defender,1.0
+54380,0,O. Selnas,Saint-Etienne,Midfielder,1.0
+55979,16,M. Jorgensen,Huddersfield Town,Defender,0.058823529411764705
+55990,0,T. Delaney,Borussia Dortmund,Midfielder,1.0
+56009,0,R. Durmisi,Real Betis,Defender,1.0
+56026,1,J. Stryger Larsen,Udinese,Defender,0.5
+56441,0,L. Lerager,Bordeaux,Midfielder,1.0
+62224,0,R. Fraser,AFC Bournemouth,Midfielder,1.0
+62389,1,A. Mooy,Huddersfield Town,Midfielder,0.5
+64995,3,G. Burgstaller,Schalke 04,Forward,0.25
+65075,1,M. Hinteregger,Augsburg,Defender,0.5
+65180,0,M. Gregoritsch,Augsburg,Forward,1.0
+68085,8,C. Kabasele,Watford,Defender,0.1111111111111111
+69400,4,M. Badelj,Lazio,Midfielder,0.2
+69411,2,A. Kramaric,Hoffenheim,Forward,0.3333333333333333
+69525,13,M. Pavlovic,Angers,Defender,0.07142857142857142
+70084,0,Alex Sandro,Juventus,Defender,1.0
+70086,0,N. Otamendi,Manchester City,Defender,1.0
+70088,0,Rolando,Olympique Marseille,Defender,1.0
+70092,0,S. Defour,Burnley,Midfielder,1.0
+70093,2,Joao Moutinho,0,Midfielder,0.3333333333333333
+70112,2,E. Garay,Valencia,Defender,0.3333333333333333
+70120,1,Javi Garcia,Real Betis,Midfielder,0.5
+70122,0,N. Matic,Manchester United,Midfielder,1.0
+70129,2,Rodrigo,Valencia,Forward,0.3333333333333333
+70139,2,E. Insua,Stuttgart,Defender,0.3333333333333333
+70389,0,Cedric Soares,Southampton,Defender,1.0
+70451,0,Luisinho,Deportivo La Coruna,Defender,1.0
+70507,0,Paulo Oliveira,Eibar,Defender,1.0
+70959,0,Edgar Ie,Lille,Defender,1.0
+77548,0,J. Allen,Stoke City,Midfielder,1.0
+77558,4,G. Sigurosson,Everton,Midfielder,0.2
+82340,4,T. Gebre Selassie,Werder Bremen,Defender,0.2
+82487,0,P. Kaderabek,Hoffenheim,Defender,1.0
+86220,1,G. Mercado,Sevilla,Defender,0.5
+86243,3,D. Zapata,Sampdoria,Forward,0.25
+86301,0,L. Castro,Chievo,Midfielder,1.0
+86328,0,G. Pezzella,Fiorentina,Defender,1.0
+86338,0,L. Ocampos,Olympique Marseille,Forward,1.0
+86366,1,J. Palomino,Atalanta,Defender,0.5
+89186,0,P. Dybala,Juventus,Forward,1.0
+89559,0,C. Aranguiz,Bayer Leverkusen,Midfielder,1.0
+90268,0,E. Pulgar,Bologna,Midfielder,1.0
+91381,0,J. Izquierdo,Brighton & Hove Albion,Forward,1.0
+91702,0,J. Mojica,Girona,Defender,1.0
+92899,6,J. Holebas,Watford,Defender,0.14285714285714285
+92966,1,K. Manolas,Roma,Defender,0.5
+93000,1,Antunes,Getafe,Defender,0.5
+93003,0,D. Siovas,Leganes,Defender,1.0
+94695,0,H. Sakai,Olympique Marseille,Defender,1.0
+97582,1,M. Konate,Amiens SC,Forward,0.5
+99833,0,B. Bereszynski,Sampdoria,Defender,1.0
+105339,0,Fernandinho,Manchester City,Midfielder,1.0
+105541,0,Lucas Perez,Deportivo La Coruna,Forward,1.0
+116269,0,D. Laxalt,Milan,Midfielder,1.0
+116349,0,M. Vecino,Internazionale,Midfielder,1.0
+119951,0,Ahmed Hegazy,West Bromwich Albion,Defender,1.0
+120353,0,Mohamed Salah,Liverpool,Forward,1.0
+120717,0,O. Haddadi,Dijon,Defender,1.0
+127537,1,L. Milivojevic,Crystal Palace,Midfielder,0.5
+127796,0,F. Kostic,Hamburger SV,Midfielder,1.0
+131959,0,J. Seri,Nice,Midfielder,1.0
+134102,1,N. Ake,AFC Bournemouth,Defender,0.5
+134174,0,Samu Castillejo,Villarreal,Midfielder,1.0
+134387,10,L. Goretzka,Bayern Munchen,Midfielder,0.09090909090909091
+134435,30,A. Grassi,SPAL,Midfielder,0.03225806451612903
+134494,0,V. Germain,Olympique Marseille,Forward,1.0
+134502,4,A. Laporte,Manchester City,Defender,0.2
+134503,0,C. Lenglet,Sevilla,Defender,1.0
+135103,26,A. Christensen,Chelsea,Defender,0.037037037037037035
+135913,0,Rony Lopes,Monaco,Midfielder,1.0
+136441,0,B. Davies,Tottenham Hotspur,Defender,1.0
+138174,0,K. Linetty,Sampdoria,Midfielder,1.0
+138408,1,M. Skriniar,Internazionale,Defender,0.5
+141172,0,J. Aholou,Strasbourg,Midfielder,1.0
+142755,0,B. Traore,Olympique Lyonnais,Forward,1.0
+143566,0,Douglas Santos,Hamburger SV,Defender,1.0
+144884,0,C. Jullien,Toulouse,Defender,1.0
+146583,15,J. Brandt,Bayer Leverkusen,Midfielder,0.0625
+146588,0,A. Romagnoli,Milan,Defender,1.0
+146590,1,F. Mattiello,SPAL,Defender,0.5
+149019,1,D. Simpson,Leicester City,Defender,0.5
+167145,0,Bellerin,Arsenal,Defender,1.0
+167641,0,S. Lobotka,Celta de Vigo,Midfielder,1.0
+169002,13,Diego Rico,Leganes,Defender,0.07142857142857142
+173212,1,N. Stark,Hertha BSC,Defender,0.5
+173214,0,T. Werner,RB Leipzig,Forward,1.0
+206314,0,M. Icardi,Internazionale,Forward,1.0
+207143,0,Fabinho,Monaco,Midfielder,1.0
+208694,0,Rodrigo Ely,Deportivo Alaves,Defender,1.0
+208696,0,M. Politano,Sassuolo,Forward,1.0
+209028,0,A. Thomasson,Nantes,Midfielder,1.0
+209086,4,M. Sanson,Olympique Marseille,Midfielder,0.2
+209117,0,A. Rabiot,PSG,Midfielder,1.0
+209209,7,F. Tait,Angers,Midfielder,0.125
+209400,0,D. Berardi,Sassuolo,Forward,1.0
+210044,0,E. Dier,Tottenham Hotspur,Midfielder,1.0
+213124,0,Chema,Levante,Defender,1.0
+213308,0,J. Alonso,Lille,Defender,1.0
+213948,0,R. de Paul,Udinese,Midfielder,1.0
+214062,0,Alex Granell,Girona,Midfielder,1.0
+214628,0,J. Amavi,Olympique Marseille,Defender,1.0
+214710,0,B. Dibassy,Amiens SC,Defender,1.0
+215036,0,C. Yambere,Dijon,Defender,1.0
+216074,0,C. Gunter,Freiburg,Defender,1.0
+217031,2,Thomas,Atletico Madrid,Midfielder,0.3333333333333333
+217874,7,A. Toure,Nantes,Midfielder,0.125
+219350,0,A. Niane,Troyes,Forward,1.0
+220359,0,P. Farago,Cagliari,Midfielder,1.0
+221411,0,P. Max,Augsburg,Defender,1.0
+224593,0,J. Kimmich,Bayern Munchen,Defender,1.0
+224680,0,M. Wolf,Eintracht Frankfurt,Midfielder,1.0
+224801,27,I. Bebou,Hannover 96,Forward,0.03571428571428571
+225022,2,Ruben Duarte,Deportivo Alaves,Defender,0.3333333333333333
+225089,3,Jose Luis Morales,Levante,Midfielder,0.25
+225996,1,Diego Llorente,Real Sociedad,Defender,0.5
+226200,0,M. Lazzari,SPAL,Midfielder,1.0
+228768,0,J. Tah,Bayer Leverkusen,Defender,1.0
+228902,0,J. Calleri,Las Palmas,Forward,1.0
+228928,1,A. Marusic,Lazio,Midfielder,0.5
+228963,8,H. Traore,Rennes,Defender,0.1111111111111111
+228980,0,J. Gbamin,Mainz 05,Midfielder,1.0
+228981,8,B. Bourigeaud,Rennes,Midfielder,0.1111111111111111
+229427,0,A. Djiku,Caen,Defender,1.0
+230862,9,Lekue,Athletic Club,Defender,0.1
+230883,0,Ayoze Perez,Newcastle United,Forward,1.0
+230895,3,Pere Pons,Girona,Midfielder,0.25
+231138,3,P. Kimpembe,PSG,Defender,0.25
+232822,0,A. Masina,Bologna,Defender,1.0
+235450,0,A. Diallo,Mainz 05,Defender,1.0
+235597,153,T. Baumgartl,Stuttgart,Defender,0.006493506493506494
+235606,0,T. Kehrer,Schalke 04,Defender,1.0
+236528,0,N. Elvedi,Borussia M'gladbach,Defender,1.0
+237034,1,Goncalo Guedes,PSG,Forward,0.5
+241676,3,R. Gagliardini,Internazionale,Midfielder,0.25
+241945,0,P. Sisto,Celta de Vigo,Midfielder,1.0
+241966,16,G. Jung,Hamburger SV,Defender,0.058823529411764705
+242446,0,L. Dubois,Olympique Lyonnais,Defender,1.0
+244357,7,B. Zungu,Amiens SC,Midfielder,0.125
+245364,0,L. Sane,Manchester City,Midfielder,1.0
+246866,13,A. Mawson,0,Defender,0.07142857142857142
+246946,17,E. Skhiri,Montpellier,Midfielder,0.05555555555555555
+247141,0,Inaki Williams,Athletic Club,Forward,1.0
+247207,0,Joan Jordan,Eibar,Midfielder,1.0
+247671,0,N. Pepe,Lille,Forward,1.0
+248950,0,Samir,Udinese,Defender,1.0
+250134,0,Luiz Araujo,Lille,Forward,1.0
+250805,1,Djene,Getafe,Defender,0.5
+252365,1,D. Yedlin,Newcastle United,Defender,0.5
+254408,0,A. Correa,Atletico Madrid,Forward,1.0
+255738,7,J. Lerma,AFC Bournemouth,Midfielder,0.125
+256084,2,Kwon Chang-Hoon,Dijon,Midfielder,0.3333333333333333
+256478,8,D. Cataldi,Benevento,Midfielder,0.1111111111111111
+257750,2,Thiago Maia,Lille,Midfielder,0.3333333333333333
+257762,1,D. Sanchez,Tottenham Hotspur,Defender,0.5
+258252,0,L. Klostermann,RB Leipzig,Defender,1.0
+260002,18,V. Rongier,Nantes,Midfielder,0.05263157894736842
+263105,0,Pablo Maffeo,Girona,Defender,1.0
+263432,30,F. Vicari,SPAL,Defender,0.03225806451612903
+263433,9,A. Ferrari,Hellas Verona,Defender,0.1
+263766,2,Jemerson,Monaco,Defender,0.3333333333333333
+265172,0,A. Barak,Udinese,Midfielder,1.0
+265366,0,W. Ndidi,Leicester City,Midfielder,1.0
+265865,0,S. Milinkovic-Savic,Lazio,Midfielder,1.0
+268776,0,W. Hoedt,Southampton,Defender,1.0
+269152,1,G. Simeone,Fiorentina,Forward,0.5
+270866,18,Diego Carlos,Nantes,Defender,0.05263157894736842
+272434,1,W. Anton,Hannover 96,Defender,0.5
+272440,1,M. Eggestein,Werder Bremen,Midfielder,0.5
+274344,4,B. Santamaria,Angers,Midfielder,0.2
+276211,7,A. Saint-Maximin,Nice,Forward,0.125
+276944,0,J. Bamba,Saint-Etienne,Forward,1.0
+276979,0,F. Mendy,Olympique Lyonnais,Defender,1.0
+276983,0,I. Mbenza,Montpellier,Forward,1.0
+277629,1,P. Lees Melou,Nice,Midfielder,0.5
+278278,3,Munir,Deportivo Alaves,Forward,0.25
+278289,0,Odriozola,Real Madrid,Defender,1.0
+279533,0,Mario Hermoso,Espanyol,Defender,1.0
+279545,6,L. Hernandez,Atletico Madrid,Defender,0.14285714285714285
+280419,0,H. Hateboer,Atalanta,Defender,1.0
+282438,1,Aaron,Espanyol,Defender,0.5
+284960,6,L. Venuti,Benevento,Defender,0.14285714285714285
+285109,0,F. Kessie,Milan,Midfielder,1.0
+286223,9,N. Barella,Cagliari,Midfielder,0.1
+286380,2,I. Diop,Toulouse,Defender,0.3333333333333333
+286448,0,M. Arambarri,Getafe,Midfielder,1.0
+286917,0,F. Toure,Lille,Defender,1.0
+288663,0,M. Caldara,Atalanta,Defender,1.0
+289359,8,Y. Ait Bennasser,Monaco,Midfielder,0.1111111111111111
+289711,0,N. Keita,RB Leipzig,Midfielder,1.0
+290119,0,M. Niakhate,Mainz 05,Defender,1.0
+292991,28,M. Lemos,Sassuolo,Defender,0.034482758620689655
+294695,2,T. Ndombele,Olympique Lyonnais,Midfielder,0.3333333333333333
+295761,0,S. Grandsir,Troyes,Forward,1.0
+300485,0,Malcom,Bordeaux,Forward,1.0
+301013,7,J. Gelin,Rennes,Defender,0.125
+302518,0,L. Cook,AFC Bournemouth,Midfielder,1.0
+302799,0,R. Mandragora,Crotone,Midfielder,1.0
+328336,1,M. Fares,Hellas Verona,Forward,0.5
+333571,0,L. Torreira,Arsenal,Midfielder,1.0
+333913,1,K. Lasagna,Udinese,Forward,0.5
+334552,0,F. Kamano,Bordeaux,Forward,1.0
+334720,46,R. Bensebaini,Rennes,Defender,0.02127659574468085
+340646,36,B. Pavard,Stuttgart,Defender,0.02702702702702703
+341973,0,N. Mukiele,Montpellier,Defender,1.0
+342743,0,L. Tousart,Olympique Lyonnais,Midfielder,1.0
+344068,0,Unai Nunez,Athletic Club,Defender,1.0
+344140,0,A. Ndiaye,Getafe,Forward,1.0
+344864,22,C. Soyuncu,Freiburg,Defender,0.043478260869565216
+346195,0,Fabian,Real Betis,Midfielder,1.0
+352986,0,K. Amian,Toulouse,Defender,1.0
+352988,6,D. Upamecano,RB Leipzig,Defender,0.14285714285714285
+353833,0,K. Mbappe,PSG,Forward,1.0
+354123,1,Pol Lirola,Sassuolo,Defender,0.5
+354547,0,J. Jankto,Udinese,Midfielder,1.0
+355599,0,Mikel Oyarzabal,Real Sociedad,Midfielder,1.0
+359847,0,Alfonso Pedraza,Deportivo Alaves,Midfielder,1.0
+360992,0,D. Zakaria,Borussia M'gladbach,Midfielder,1.0
+364860,0,Rodri,Villarreal,Midfielder,1.0
+366401,0,A. Zambo Anguissa,Olympique Marseille,Midfielder,1.0
+366581,5,J. Gnagnon,Rennes,Defender,0.16666666666666666
+372752,2,Carlos Soler,Valencia,Midfielder,0.3333333333333333
+372915,4,A. Harit,Schalke 04,Midfielder,0.2
+377071,0,Richarlison,Everton,Forward,1.0
+388267,0,L. Bailey,Bayer Leverkusen,Forward,1.0
+391530,0,C. Pulisic,Borussia Dortmund,Midfielder,1.0
+393214,0,V. Rosier,Dijon,Defender,1.0
+393284,3,C. Traore,Troyes,Defender,0.25
+395636,0,Maxi Gomez,Celta de Vigo,Forward,1.0
+397046,0,H. Aouar,Olympique Lyonnais,Midfielder,1.0
+399676,0,Pablo Fornals,Villarreal,Midfielder,1.0
+413737,0,S. Ascacibar,Stuttgart,Midfielder,1.0
+425925,1,K. Havertz,Bayer Leverkusen,Midfielder,0.5
+447804,0,F. Chiesa,Fiorentina,Midfielder,1.0

@@ -1,0 +1,47 @@
+playerId,Distance2Clone,shortName,position,MRR_ind,team1,team2
+370,31.0,V. van Dijk,Defender,0.03125,Southampton,Liverpool
+3335,1.0,Bartra,Defender,0.5,Real Betis,Borussia Dortmund
+3361,0.0,A. Sanchez,Forward,1.0,Arsenal,Manchester United
+3671,1.0,Inigo Martinez,Defender,0.5,Real Sociedad,Athletic Club
+3802,2.0,Philippe Coutinho,Forward,0.3333333333333333,Barcelona,Liverpool
+3803,1.0,Sergi Darder,Midfielder,0.5,Espanyol,Olympique Lyonnais
+4086,73.0,Boveda,Defender,0.013513513513513514,Athletic Club,Deportivo La Coruña
+4332,32.0,Javi Fuego,Midfielder,0.030303030303030304,Espanyol,Villarreal
+4375,0.0,Vitolo,Midfielder,1.0,Las Palmas,Atlético Madrid
+7868,10.0,A. Oxlade-Chamberlain,Midfielder,0.09090909090909091,Arsenal,Liverpool
+8284,5.0,A. Lennon,Midfielder,0.16666666666666666,Everton,Burnley
+14731,0.0,M. Gomez,Forward,1.0,Wolfsburg,Stuttgart
+15085,5.0,S. Wagner,Forward,0.16666666666666666,Hoffenheim,Bayern München
+16094,4.0,S. Terodde,Forward,0.2,Stuttgart,Köln
+16110,0.0,K. Kampl,Midfielder,1.0,Bayer Leverkusen,RB Leipzig
+20460,103.0,M. Caceres,Defender,0.009615384615384616,Hellas Verona,Lazio
+20748,28.0,N. Tomovic,Defender,0.034482758620689655,Fiorentina,Chievo
+21370,50.0,M. Capuano,Defender,0.0196078431372549,Cagliari,Crotone
+21620,3.0,J. Kurtic,Midfielder,0.25,Atalanta,SPAL
+21861,17.0,D. Falcinelli,Forward,0.05555555555555555,Sassuolo,Fiorentina
+22381,42.0,Daniel Bessa,Midfielder,0.023255813953488372,Hellas Verona,Genoa
+22889,30.0,D. Zappacosta,Defender,0.03225806451612903,Torino,Chelsea
+25437,0.0,B. Matuidi,Midfielder,1.0,Juventus,PSG
+25572,5.0,A. Ayew,Forward,0.16666666666666666,West Ham United,Swansea City
+25867,16.0,P. Aubameyang,Forward,0.058823529411764705,Borussia Dortmund,Arsenal
+25923,148.0,N. de Preville,Forward,0.006711409395973154,Lille,Bordeaux
+25999,2.0,R. Cabella,Midfielder,0.3333333333333333,Olympique Marseille,Saint-Étienne
+26000,34.0,B. Dabo,Midfielder,0.02857142857142857,Fiorentina,Saint-Étienne
+26021,16.0,S. Falette,Defender,0.058823529411764705,Metz,Eintracht Frankfurt
+26332,21.0,P. Baysse,Defender,0.045454545454545456,Málaga,Bordeaux
+32968,1.0,N. Amrabat,Forward,0.5,Leganés,Watford
+56025,93.0,M. Krohn-Dehli,Midfielder,0.010638297872340425,Sevilla,Deportivo La Coruña
+105338,17.0,H. Mkhitaryan,Midfielder,0.05555555555555555,Manchester United,Arsenal
+134502,356.0,A. Laporte,Defender,0.0028011204481792717,Athletic Club,Manchester City
+134708,2.0,D. Origi,Forward,0.3333333333333333,Wolfsburg,Liverpool
+149389,343.0,J. Toljan,Defender,0.0029069767441860465,Hoffenheim,Borussia Dortmund
+237034,0.0,Goncalo Guedes,Forward,1.0,Valencia,PSG
+274435,8.0,E. Unal,Forward,0.1111111111111111,Villarreal,Levante
+275032,3.0,E. Crivelli,Forward,0.25,Angers,Caen
+276211,0.0,A. Saint-Maximin,Forward,1.0,Monaco,Nice
+279734,7.0,V. Koziello,Midfielder,0.125,Nice,Köln
+284469,41.0,J. Brekalo,Midfielder,0.023809523809523808,Stuttgart,Wolfsburg
+292991,194.0,M. Lemos,Defender,0.005128205128205128,Las Palmas,Sassuolo
+294695,11.0,T. Ndombele,Midfielder,0.08333333333333333,Amiens SC,Olympique Lyonnais
+338249,16.0,Gil Dias,Forward,0.058823529411764705,Fiorentina,Monaco
+353833,0.0,K. Mbappe,Forward,1.0,Monaco,PSG
